@@ -4,8 +4,7 @@
 
  ## Discription 
  -------------------------------------------------------
-. This app is a usefull light-weight android exercise tracking and competition Ap.
-.this is a simple News app which uses a free news API to load latest newss from all over the world.
+.this is a News app which uses a free news API to load latest newss from all over the world.
 .In the home screen the App will display a list of the latest newss and from that the user can select a news and read
  it in a webview. the user can also save a news for reading at a convenient time. 
  in addition the user can also search for a news by typing in the seach box.
