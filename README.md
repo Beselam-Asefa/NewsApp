@@ -21,6 +21,7 @@
 - coroutines for background tasks
 - Jetpack Navigation Component
 - Material design
+- Kotlin
 
 
 
