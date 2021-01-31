@@ -4,9 +4,9 @@
 
  ## Discription 
  -------------------------------------------------------
-.this is a News app which uses a free news API to load latest newss from all over the world.
-.In the home screen the App will display a list of the latest newss and from that the user can select a news and read
- it in a webview. the user can also save a news for reading at a convenient time. 
+.this is a News app which uses a free news API to load latest news from all over the world.
+.In the home screen the App will display a list of the latest news, and from that, the user can select a news and read
+ it in a WebView. the user can also save a news for reading at a convenient time. 
  in addition the user can also search for a news by typing in the seach box.
 
 ---
@@ -16,10 +16,10 @@
  -----------------------------------------------------
  
 - Native android
-- Retrofit for a newtwork call
+- Retrofit for a network call
 - Room for local storage
-- coroutines for background tasks
-- Jetpack Navigation Component
+- Kotlin coroutines for background tasks
+- Jetpack Nav
 - Material design
 - Kotlin
 
